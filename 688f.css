@@ -13,12 +13,6 @@
 	src: url(fonts/radiance-semibold.ttf);
 }
 
-@media screen and (max-width: 1600px){
-    body, html {
-    max-width: 1600px;
-    }
-}
-
 body,
 html {
     background-color: #000000;
